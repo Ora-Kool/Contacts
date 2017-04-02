@@ -28,4 +28,4 @@ this port can be changed
 * Services (job queues, cache servers, search engines, etc.)
 none
 * Deployment instructions
-none
+#this application is for testing purposes, we people can just add their contacts information, first version needs no login or authentication just two(2) pages on for the displays of contacts and the other one to add contacts, the information taken for contact are name, number and email address for now
